@@ -36,8 +36,8 @@ namespace IdentityAPI
             {
                 options.SwaggerDoc("V1", new Info
                 {
-                    Title = "Catalog API",
-                    Description = "Catalog management API methods for EShop application",
+                    Title = "Identity API",
+                    Description = "Identity API methods for authentication",
                     Version = "1.0",
                     Contact = new Contact()
                     {
